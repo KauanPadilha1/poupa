@@ -2379,8 +2379,8 @@
             (l = o[s]), C.o(e, l) && e[l] && e[l][0](), (e[l] = 0);
           return C.O(r);
         },
-        a = (self["webpackChunk_financeira"] =
-          self["webpackChunk_financeira"] || []);
+        a = (self["webpackChunkvip_financeira"] =
+          self["webpackChunkvip_financeira"] || []);
       a.forEach(t.bind(null, 0)), (a.push = t.bind(null, a.push.bind(a)));
     })();
   var a = C.O(void 0, [504], function () {
