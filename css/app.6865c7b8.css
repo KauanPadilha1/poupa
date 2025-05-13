@@ -868,7 +868,7 @@ html {
 }
 
 .rounded {
-    border-radius: .25rem
+    border-radius: .5rem
 }
 
 .rounded-full {
@@ -929,7 +929,10 @@ html {
     --tw-bg-opacity: 1;
     background-color: rgb(248 248 248/var(--tw-bg-opacity, 1))
 }
-
+.bg-red {
+    --tw-bg-opacity: 1;
+    background-color: rgb(223 8 17 /var(--tw-bg-opacity, 1))
+}
 .bg-black {
     --tw-bg-opacity: 1;
     background-color: rgb(0 0 0/var(--tw-bg-opacity, 1))
@@ -937,7 +940,7 @@ html {
 
 .bg-malachite {
     --tw-bg-opacity: 1;
-    background-color: rgb(37 211 102/var(--tw-bg-opacity, 1))
+    background-color: rgb(0 128 0/var(--tw-bg-opacity, 1))
 }
 
 .bg-selective-yellow {
@@ -1196,7 +1199,10 @@ html {
     --tw-text-opacity: 1;
     color: rgb(0 0 0/var(--tw-text-opacity, 1))
 }
-
+.text-selective-green {
+    --tw-text-opacity: 1;
+    color: rgb(0 128 0/var(--tw-text-opacity, 1))
+}
 .text-selective-yellow {
     --tw-text-opacity: 1;
     color: rgb(223 8 17/var(--tw-text-opacity, 1))
