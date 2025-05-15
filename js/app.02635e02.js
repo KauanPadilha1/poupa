@@ -82,7 +82,7 @@
         }
         var l = C(4095),
           o = C(4232);
-        const i = { class: "relative bg-black" },
+        const i = { class: "relative bg-red" },
           n = { class: "content-area" },
           s = {
             class:
@@ -144,7 +144,7 @@
                       (0, a.bF)(
                         c,
                         {
-                          link: `https://api.whatsapp.com/send?phone=${l.number}&text=(${C.originTag})Ol%C3%A1,%20gostaria%20de%20simular%20minha%20antecipa%C3%A7%C3%A3o%20do%20FGTS.&app=facebook&entry_point=page_cta`,
+                          link: `https://api.whatsapp.com/send?phone=${l.number}&text=Ol%C3%A1,%20gostaria%20de%20simular%20minha%20antecipa%C3%A7%C3%A3o%20do%20FGTS.&app=facebook&entry_point=page_cta`,
                           type: "external",
                           label: "Fale Conosco",
                           title: "Ligue agora (18) 98156-8846",
@@ -859,7 +859,7 @@
                     "div",
                     {
                       class:
-                        "md:block hidden absolute w-full h-full bg-gradient-to-r from-black via-black/75 z-10",
+                        "md:block hidden absolute w-full h-full from-black via-black/75 z-10",
                     },
                     null,
                     -1
@@ -1354,7 +1354,7 @@
                 },
                 {
                   icon: '<svg width="19" height="24" viewBox="0 0 19 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 0L0.00463754 6L9.50232 10.8L19 6L18.9954 0H0ZM9.50232 10.8L7.30181 15.1453L2.38138 15.8414L5.94069 19.2234L5.10129 24L9.50232 21.7453L13.901 24L13.0616 19.2234L16.6209 15.8414L11.7005 15.1453L9.50232 10.8ZM2.37674 2.4H5.93605V6.31406L2.37674 4.51641V2.4ZM8.31047 2.4H10.6849V7.51875L9.50232 8.11641L8.31047 7.51406V2.4ZM13.0593 2.4H16.6233V4.51641L13.0593 6.31875V2.4Z" fill="#FCB813"/></svg>',
-                  title: "15 anos",
+                  title: "19 anos",
                   text: 'de atuação no <br clas="hidden md:inline-block" /> mercado de crédito.',
                 },
                 {
@@ -2134,7 +2134,7 @@
                   {
                     name: "description",
                     content:
-                      "A PoupaCred Promotora de Crédito está no mercado há +15 anos e é uma das maiores promotoras de crédito do país. Essa é uma garantia aos nossos clientes de que todo o processo terá credibilidade, segurança, qualidade e excelência.",
+                      "A PoupaCred Promotora de Crédito está no mercado há +19 anos e é uma das maiores promotoras de crédito do país. Essa é uma garantia aos nossos clientes de que todo o processo terá credibilidade, segurança, qualidade e excelência.",
                   },
                 ],
               });
